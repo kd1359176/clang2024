@@ -1,0 +1,10 @@
+#include<stdio.h>
+main()
+{
+	float a;
+	printf("À”‚ÍH");
+	scanf("%f",&a);
+	printf("1/2=%f\n", a / 2);
+	printf("1/3=%f\n", a / 3);
+	printf("1/4=%f\n", a / 4);
+}
